@@ -1,0 +1,2 @@
+# Modbus485TH10S_TempHumSensor
+Modbus485TH10S_TempHumSensor Sensor components for ardusensorplatform framework
