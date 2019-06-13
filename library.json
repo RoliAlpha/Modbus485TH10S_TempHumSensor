@@ -1,4 +1,5 @@
-"name": "Modbus485TH10S_TempHumSensor",
+{
+  "name": "Modbus485TH10S_TempHumSensor",
   "keywords": "arduino, sensor, ardusensorplatform framework",
   "description": "Modbus485TH10S_TempHumSensor Sensor components for ardusensorplatform framework",
   "repository":
@@ -36,3 +37,4 @@
   "version": "1.2.0",
   "frameworks": "arduino",
   "platforms": "*"
+}
